@@ -2,3 +2,4 @@
 <img width="525" height="594" alt="Song drawio" src="https://github.com/user-attachments/assets/bcef9b31-2bb2-43f5-bdb9-2aa774f323d0" />
 <img width="466" height="582" alt="Sales drawio" src="https://github.com/user-attachments/assets/71415519-413b-404f-875a-19b326d0776f" />
 <img width="4512" height="1854" alt="erdplus (1)" src="https://github.com/user-attachments/assets/f0dce891-62dc-4d82-b119-4dfaea70d214" />
+<img width="659" height="997" alt="Patient drawio" src="https://github.com/user-attachments/assets/878a7d5c-aefb-40a4-9cfd-59e09100a0f2" />
